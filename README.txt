@@ -1,11 +1,13 @@
-					---- LIBFT README FILE ----
+			---- Libft Project ----
 
-1.) The task: To create from scratch some libc functions and more. More details in 'libft.en.pdf'.
+1.) Task: To create some libc functions, and others. More details in the libft.en.pdf.
 
-2.) Enter the libft folder and type 'make' in the command window to create the library.
+2.) You can create the library by typing 'make' in the command line. (being in libft folder)
 
-3.) You can test the functions using alelievr's tool: 'libft unit test'. Follow the instructions in his README file.
+3.) You can test the functions using libft-unit-test(made by alelievr). Follow the instructions in README file.
 
 -------
-Calin Hrihorciuc. 42 user account - chrihorc
+Hrihorciuc Calin @ Academy+plus account: chrihorc
 -------
+
+
